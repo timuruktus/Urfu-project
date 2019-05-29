@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Urfu</string>
+
+    <string name="join_with_vk">Войти через ВК</string>
+    <integer name="com_vk_sdk_AppId">6996708</integer>
+
+
+    <!--GROUPS-->
+    <string name="group_sport">СПОРТ УрФУ</string>
+    <string name="group_photo">ФОТОКЛУБ УрФУ</string>
+    <string name="group_creation">ТВОРЧЕСТВО УрФУ</string>
+    <string name="group_fitness">ФИТНЕС УрФУ</string>
+    <string name="group_languages">ИНОСТРАННЫЕ ЯЗЫКИ УрФУ</string>
+    <string name="group_music">МУЗЫКА УрФУ</string>
+    <string name="group_volleyball">ВОЛЕЙБОЛ УрФУ</string>
+    <string name="group_football">ФУТБОЛ УрФУ</string>
+    <string name="group_turclub">ТУРКЛУБ УрФУ</string>
+
+    <string name="groups_interested_in">Выбирай интересные направления внеучебной деятельности</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
